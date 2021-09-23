@@ -56,4 +56,9 @@
         compatible(snowballer, [tank, duelist, initiator, assassin, control, roamer, engage, enchanter]).
     3.13 meta(x,y) means that meta in role x has champions y.
         meta(top, [darius, urgot, wukong, cho_gath, malphite, nasus, garen, yorick]).
-        meta(bottom, [vayne, seraphine, swain, jhin, miss_fortune, jinx, tristana, sivir]).
+        meta(bottom, [vayne, seraphine, swain, jhin, miss_fortune, jinx, tristana, sivir]).            
+        
+### Why I don't have contributor in this work?       
+Because I mainly done initation and send it via google docs with Punyawee S. and focus on description more than code here! Three of main contibutor are better coding and have exprience in LOL before.
+
+ 
